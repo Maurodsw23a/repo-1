@@ -1,0 +1,2 @@
+mi primer ejemplo en git 
+modificando el nomre de el archivo que tiene mi nombre 
